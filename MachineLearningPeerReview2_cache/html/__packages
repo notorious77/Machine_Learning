@@ -1,0 +1,13 @@
+base
+lattice
+ggplot2
+caret
+rpart
+rpart.plot
+gplots
+ROCR
+e1071
+randomForest
+class
+gmodels
+ggvis
